@@ -1,0 +1,9 @@
+<svg width="0" height="0" class="hidden">
+  <symbol version="1.0" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24.000000 24.000000" id="up-arrow-24">
+    <g transform="translate(0.000000,24.000000) scale(0.100000,-0.100000)">
+      <path d="M99 213 c-11 -13 -11 -17 -1 -20 8 -3 12 -31 12 -94 0 -53 4 -89 10
+-89 6 0 10 36 10 89 0 63 4 91 13 94 9 3 9 7 -2 20 -7 10 -17 17 -21 17 -4 0
+-14 -7 -21 -17z"></path>
+    </g>
+  </symbol>
+</svg>

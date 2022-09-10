@@ -1,0 +1,63 @@
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  table-layout: fixed;
+  margin-bottom: 20px;
+}
+
+#arrow-sort-wins {
+  fill: red;
+  width: 24px;
+  height: 24px;
+}
+
+#arrow-sort-time {
+  fill: red;
+  width: 24px;
+  height: 24px;
+}
+
+table tr:nth-child(odd) {
+  background-color: #12acb8;
+}
+
+table thead th {
+  border: 1px solid black;
+  background-color: #72e8f1;
+}
+
+table thead th:nth-child(1) {
+  width: 5%;
+  text-align: left;
+}
+
+table thead th:nth-child(2) {
+  width: 15%;
+}
+
+thead th:nth-child(3) {
+  width: 55%;
+}
+
+table thead th:nth-child(4) {
+  width: 10%;
+}
+
+table thead th:nth-child(5) {
+  width: 15%;
+}
+
+table tr td:nth-child(2),
+table tr td:nth-child(4),
+table tr td:nth-child(5) {
+  text-align: center;
+}
+
+.page-number {
+  margin-bottom: 20px;
+}
+
+table .car {
+  height: 30px;
+  width: 70px;
+}
